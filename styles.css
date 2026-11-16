@@ -1,0 +1,36 @@
+html { 
+    background-image: url("background.png");
+}
+body {
+    margin: 10%;
+    padding: 5%;
+    background-color: rgba(220, 220, 220, 0.6);
+} 
+a, a:hover { 
+    text-decoration: none;
+    color: blue;
+}
+img { 
+    float: right;
+    max-width: 30%;
+    border-radius: 10%;
+} 
+ul { 
+    list-style-type:circle;
+}
+ul ul { 
+    list-style-type: square;
+}
+table{
+    border: black solid 0.1rem;
+    border-radius: 5%;
+}
+th, td{ 
+    border: black solid 0.1rem;
+}
+#Green { color: green;}
+footer { 
+    font-style: italic;
+    font-size: 0.8rem;
+}
+
